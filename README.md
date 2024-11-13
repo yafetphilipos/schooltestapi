@@ -1,3 +1,15 @@
+To test the code run the following commands 
+
+```
+npm install
+npm run test 
+```
+or 
+```
+npm install
+node app.js 
+```
+
 Sample School payment system
 
 Payment API Documentation, version 1.0
