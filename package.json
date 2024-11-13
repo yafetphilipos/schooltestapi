@@ -1,0 +1,22 @@
+{
+  "name": "schoolpaymentsystem",
+  "version": "1.0.0",
+  "description": "School payment system test API",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "schoolapi"
+  },
+  "keywords": [
+    "school",
+    "api"
+  ],
+  "author": "Yafet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
